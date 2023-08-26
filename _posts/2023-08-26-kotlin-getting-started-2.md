@@ -8,6 +8,7 @@ tags: [kotlin, kotlin_basic]
 
 ## Basic types
 코틀린의 기본 타입은 다른 언어와 비슷하다. <br>
+
 |Category|Basic types|
 |:---|:---|
 |Integers|`Byte`, `Short`, `Int`, `Long`|
