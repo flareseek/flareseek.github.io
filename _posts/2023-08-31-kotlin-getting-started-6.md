@@ -1,6 +1,6 @@
 ---
 title: "Kotlin Getting Started - 6. Classes"
-date: 2023-08-29 22:20:00 +09:00 
+date: 2023-08-31 22:34:00 +09:00 
 # last_modified_at:
 categories: [kotlin, basic]
 tags: [kotlin, kotlin_basic]
@@ -17,7 +17,6 @@ class Customer
 class Contact(val id: Int, var email: String) {
     val category: String = ""
 }
-
 ```
 클래스 헤더에 넣거나, 클래스 바디의 안에 선언해주면 된다.
 
@@ -62,7 +61,3 @@ fun main(){
 }
 ```
 `toString()` 말고도 제공해주는 함수들이 많다. 더 자세한 내용은 [문서](https://kotlinlang.org/docs/data-classes.html)를 참고하자! <br>
-
-
-
-
